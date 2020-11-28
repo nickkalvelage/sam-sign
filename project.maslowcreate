@@ -1,0 +1,22 @@
+{
+    "atomType": "Molecule",
+    "name": "sam sign",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 410932,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.985007496251874,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
